@@ -10,7 +10,7 @@ const ProfilePage = () => {
 
   const profileData = {
     name: "John Doe",
-    email: "john@example.com",
+    email: "abhcnkkksj@.com",
     phone: "+91 9876543210",
     role: "User",
   };
