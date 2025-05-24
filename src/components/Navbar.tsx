@@ -125,7 +125,7 @@ export default function Navbar() {
         isHomePage
           ? scrolled
             ? "bg-background/95 backdrop-blur-md shadow-sm"
-            : "bg-black/40 backdrop-blur-sm"
+            : "bg-black/40 backdrop-blur-sm text-sm"
           : "bg-background/95 backdrop-blur-md shadow-sm border-b border-border/30"
       )}
     >
